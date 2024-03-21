@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Dog",
+      "price": "100",
+      "image_url": "dog_photo.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cat",
+      "price": "90",
+      "image_url": "cat_photo.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Fish",
+      "price": "25",
+      "image_url": "fish_photo.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Blue Whale",
+      "price": "125",
+      "image_url": "blue_whale_photo.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Deer",
+      "price": "75",
+      "image_url": "deer_photo.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Lion",
+      "price": "200",
+      "image_url": "lion_photo.jpg"
+    }
+  ],
+  "cart": [],
+  "checkout": [
+    [
+      {
+        "id": 4,
+        "name": "Blue Whale",
+        "price": 125,
+        "image_url": "blue_whale_photo.jpg"
+      }
+    ]
+  ]
+}

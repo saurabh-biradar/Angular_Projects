@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+}
+
+.col-1 {
+    padding: .375rem .75rem;
+}
+
+.container>.row {
+    margin: .5rem;
+}
+
+.form-control {
+    width: 75% !important;
+}
+
+.form-group {
+    margin-left: 15rem !important;
+}
+
+h4 {
+    text-align: center;
+    margin-bottom: 2.5rem !important;
+}
+
+.button-control {
+    text-align: center;
+    margin: .5rem;
+}
+
+.button-control>button {
+    width: 100px;
+}
